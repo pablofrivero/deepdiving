@@ -5,6 +5,7 @@ function generateRandomCantProduct() {
   return Math.floor(Math.random() * 10);
 }
 
+
 function NavBar() {
   return (
     <div classNameName="NavBar">
@@ -42,13 +43,19 @@ function NavBar() {
             <a className="navbar-item">Lanzamientos</a>
 
             <div className="navbar-item has-dropdown is-hoverable">
-              <a className="navbar-link">Lista de Productos</a>
+              <a className="navbar-link">Buceo Deportivo</a>
 
               <div className="navbar-dropdown">
-                <a className="navbar-item">Hombres</a>
-                <a className="navbar-item">Mujeres</a>
-                <hr className="navbar-divider" />
-                <a className="navbar-item">Todos</a>
+                <ul>            
+                    <li><a className="navbar-item">Aletas</a></li>
+                    <li><a className="navbar-item">Chalecos Compensadores</a></li>
+                    <li><a className="navbar-item">Computadoreas</a></li>
+                    <li><a className="navbar-item">Máscaras y Snokerls</a></li>
+                    <li><a className="navbar-item">Reguladores</a></li>
+                    <li><a className="navbar-item">Trajes de Neoprene</a></li>
+                    <hr className="navbar-divider" />
+                    <li><a className="navbar-item">Todos</a></li>
+                </ul>
               </div>
             </div>
             <a className="navbar-item">Contacto</a>  
