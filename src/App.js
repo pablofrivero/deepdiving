@@ -8,7 +8,7 @@ function App() {
     <div>
       <NavBar />
       <section clasName="section">
-        <ItemListContainer />
+        <ItemListContainer greeting="BIENVENIDO AL SITIO DEEP DIVING!"/>
       </section>
     </div>
   );
