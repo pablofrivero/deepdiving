@@ -1,0 +1,68 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+  position: relative; /* Añadido para posicionar correctamente el dropdown */
+}
+
+.navbar-left,
+.navbar-center,
+.navbar-right {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 50px; /* Ajusta el tamaño de acuerdo a tus necesidades */
+  height: auto;
+  margin-right: 10px;
+}
+
+.navbar-center ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-center li {
+  margin: 0 10px;
+  position: relative; /* Añadido para posicionar correctamente el dropdown */
+}
+
+.navbar-right button {
+  margin-left: 10px;
+}
+
+
+/* Cambiado para posicionar correctamente el dropdown */
+.has-dropdown:hover .navbar-dropdown {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 100%; /* Cambiado a 100% para iniciar desde la altura del logo */
+}
+
+.navbar-dropdown ul {
+  list-style: none;
+  padding: 0;
+}
+
+.navbar-dropdown li {
+  margin: 5px 0;
+}
+
+/* Estilos adicionales según tus necesidades */
+.navbar-link,
+.navbar-item {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-link:hover,
+.navbar-item:hover {
+  color: #84a9ac; /* Color de resaltado al pasar el ratón */
+}

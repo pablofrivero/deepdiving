@@ -1,0 +1,378 @@
+[
+    {
+        "id": 1,
+        "titulo": "Pino Violeta",
+        "descripcion": "Traje Para Buceo Deportivo 1",
+        "categoria": "buceo-trajes-neoprene",
+        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/fotos-produto-raia-masculino-frente11-e2c71bcabdffdbdaab16209353926686-1024-1024.webp",   
+        "precio": 215.000,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Pino Seco Azul",
+        "descripcion": "Traje Para Buceo Deportivo",
+        "categoria": "buceo-trajes-neoprene",
+        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/datos-adjuntos-sin-titulo-016751-d08c71446774f0232116257733954274-1024-1024.webp",
+        "precio": 127.000,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Orca Naranja",
+        "descripcion": "Traje para Para Buceo Deportivo",
+        "categoria": "buceo-trajes-neoprene",
+        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/new-supreme-1x1-11-e6ba2719dec5fdbad516209368340710-1024-1024.webp",
+        "precio": 418.000,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Pino Narwall Azul 7mm",
+        "descripcion": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+        "categoria": "buceo-trajes-neoprene",
+        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/fotos-produto-conjunto-narwhal-masculino-frente1-4abdfe1c2c98b8aace16959134097947-1024-1024.webp",
+        "precio": 458.000,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Regulador Cressi Galaxy-R Adjust T-10 SC YOke",
+        "descripcion": "Sed accumsan felis.",
+        "categoria": "buceo-reguladores",
+        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/diseno-sin-titulo-21-ee2bd55d810feb954416876111158290-1024-1024.webp",
+        "precio": 652.300,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Regulador AquaLung Leg3nd MBS ACD",
+        "descripcion": "In hac habitasse platea dictumst.",
+        "categoria": "buceo-reguladores",
+        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/5-photoroom1-bdf0b6a404f635127216542108231771-1024-1024.webp", 
+        "precio": 693.210,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Regulador Cressi Master T-10 SC Yoke",
+        "descripcion": "Morbi vel lectus in quam fringilla rhoncus.",
+        "categoria": "buceo-reguladores",
+        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/diseno-sin-titulo-11-46f04f61aaad1b3c1616875581860194-1024-1024.webp",
+        "precio": 908.650,
+        "stock": 10
+    },
+  {
+      "id": 8,
+      "titulo": "Computadora Aqualung i770R",
+      "descripcion": "Todos aquellos buceadores amantes de la tecnología que siempre están a la última apreciarán la innovadora pantalla en color de alta resolución y la conexión Bluetooth del i770R, así como su diseño compacto, funcional y robusto, Controla tu inmersión gracias a su sencilla interfaz y a su intuitivo sistema de navegación de tres botones, El i770R, que permite la gestión de 4 gases distintos, cuenta con una batería de litio recargable y una brújula de tres ejes con inclinación total, Este completo ordenador de buceo viene con cuatro modos de funcionamiento distintos, Gestiona la configuración y los datos de inmersión desde tu móvil gracias a su sistema Bluetooth, que permite además compartir tus recuerdos, estadísticas, fotos y mucho más en redes sociales a través de nuestra aplicación gratuita DiverLog.",
+      "categoria": "buceo-computadoras",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/diseno-sin-titulo-111-2abd99f82f7232b87416252277413177-1024-1024.webp",   
+      "precio": 895.000,
+      "stock": 10
+  },
+  {
+      "id": 9,
+      "titulo": "Computadora Aqualung I100",
+      "descripcion": "El i100 es el ordenador de buceo perfecto para el nuevo buceador, Con la simple navegación con un solo botón, puede seleccionar entre cuatro modos de operación y administrar dos gases, La computadora también conservará todos sus ajustes y cálculos entre los cambios de batería, Se incluyen características de seguridad tales como alarmas sonoras y una luz de advertencia LED de alta visibilidad, El ordenador de buceo i100 proporciona toda la funcionalidad esencial que necesita, un diseño compacto y un excelente precio.",
+      "categoria": "buceo-computadoras",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/diseno-sin-titulo-21-0ea5142cf69aa532c516578295657519-1024-1024.webp",   
+      "precio": 285.000,
+      "stock": 10
+  },
+  {
+      "id": 10,
+      "titulo": "Computadora Aqualung I330R",
+      "descripcion": "El ordenador de buceo Aqualung i330R es la opción ideal para los buceadores avanzados que disfrutan de la exploración del mundo y que necesiten poder confiar en su ordenador donde quiera que estén. Gracias a su pantalla a color brillante, legible incluso bajo la luz directa del sol, y a su batería recargable, nunca te dejará tirado. Con sus cuatro modos, 3 mezclas de nitrox y conexión Bluetooth, tiene la mejor relación calidad-precio de nuestros ordenadores de alta gama. Mantente conectado con tus amigos incluso desde el otro lado del mundo. Comparte los detalles de tus aventuras de inmersión en redes desde tu móvil con la aplicación DiverLog+.",
+      "categoria": "buceo-computadoras",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/111-831a8fb36f0182c4df16501242013259-1024-1024.webp",   
+      "precio": 469.000,
+      "stock": 10
+  },
+  {
+      "id": 11,
+      "titulo": "Computadora Cressi Michelangelo",
+      "descripcion": "MICHELANGELO es el sucesor del prestigioso Leonardo y ha sido diseñado, desarrollado y producido en Italia al 100% por su filial Cressi Elettronica. Es un ordenador de construcción completamente modular, robusto y de amplia pantalla UFDS que hereda la proverbial facilidad de navegación y menús de los ordenadores con software Cressi. Tiene gestión Nitrox completísima con dos mezclas, modo Profundímetro, modo Apnea, opción reset. El algoritmo incorpora RGBM y parada profunda.",
+      "categoria": "buceo-computadoras",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/diseno-sin-titulo-21-ad6415bb718d88a01d16871887785876-1024-1024.webp",
+      "precio": 421.960,
+      "stock": 10
+  },
+  {
+      "id": 12,
+      "titulo": "Computadora Cressi Neon",
+      "descripcion": "Tras los exitosos Leonardo, Giotto, Newton, Drake, Goa, y Cartesio,  NEON es el séptimo proyecto diseñado, desarrollado y producido en Italia al 100% por su filial Cressi Elettronica. Es un ordenador con formato reloj de construcción completamente modular, extremadamente robusto y fiable. Cressi tiene todo el control de calidad de este producto por ser íntegramente desarrollado y fabricado en Cressi Elettronica, tanto en lo referente a la programación del Software como en su construcción y fabricación, control de calidad y servicio postventa. Es una propuesta elegante y polivalente, bajo su aspecto deportivo y atractivo reloj se esconde un completísimo ordenador de buceo y apnea que destaca por su versatilidad. Idóneo para el buceador avanzado o para buceo técnico y para apnea o snorkeling, pero sorprendentemente sencillo para el buceador medio por su suministro de la información de forma clara y simple con solo dos pulsadores.",
+      "categoria": "buceo-computadoras",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/neon-1x1-lila1-505e228079cc59ea6e16209259978766-1024-1024.webp",
+      "precio": 502.717,
+      "stock": 10
+  },
+  {
+      "id": 13,
+      "titulo": "Snorkel Cressi Corfú",
+      "descripcion": "Aenean sit amet justo.",
+      "categoria": "buceo-snorkels",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/a1-3942e53bb64d07e9e816878155547057-1024-1024.webp",
+      "precio": 57.580,
+      "stock": 10
+  },
+  {
+      "id": 14,
+      "titulo": "Snorkel Cressi Itaca Ultra Dry",
+      "descripcion": "In blandit ultrices enim.",
+      "categoria": "buceo-snorkels",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/efsefsef1-ab595e71b5bfd44ec116878151498802-1024-1024.webp",
+      "precio": 64.424,
+      "stock": 10
+  },
+  {
+      "id": 15,
+      "titulo": "Mascara Cressi Quantum",
+      "descripcion": "Máscara basada en el formato de la exitosa Evo Big Eyes con importantes innovaciones a nivel de facial SISTEMA NO FOG que evita el empañamiento mediante la termorregulación interna del aire cálido y húmedo que sale por la nariz, que es canalizado por un sistema de sutiles membranas colocadas en la moldura alrededor de los ojos y la nariz que desvían el flujo evitando que aire caliente exhalado por la nariz acceda directamente a los cristales. La parte externa del faldón presenta un sistema de intercambio térmico compuesto por dos pequeños intercambiadores de calor que actúan como radiadores. Facial envolvente, flexible y estable. El labio exterior del facial con espesor decreciente para una mejor adaptación y confort. Zona de estanqueidad inferior reestudiada para evitar infiltraciones sin perjudicar el confort. Estructura del marco reducida que permite una gran aproximación a los cristales sin problemas de contacto con la montura. Cristales inclinados 15º y prolongados por encima de los pómulos (sistema “Big Eyes”) que incrementan la visibilidad inferior superior y lateral.",
+      "categoria": "buceo-mascaras",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/311-ce9445200aab3af68616876149168765-1024-1024.webp",
+      "precio": 131.232,
+      "stock": 10
+  },
+  {
+      "id": 16,
+      "titulo": "Mascara Aqualung Mistique DS",
+      "descripcion": "Pulsador de seguridad en la correa: permite ajustar la correa rápidamente y la mantiene segura en su sitio una vez regulada gracias al sistema de pulsador, que es fácil de usar, incluso con guantes. La Mistique DS es una máscara de un solo lente de montura dura que ofrece un campo de visión ininterrumpido. Su bajo volumen y tiene una elegante forma de libélula. Viene con hebillas de articulaciones flexibles fáciles de operar y se complementa con la correa 3D. Todo empaquetado en un lujoso estuche de EVA con cremallera de la marca Aqualung.",
+      "categoria": "buceo-mascaras",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/aqualung-mascara-mistique-ds-blanca-petrol1-f0ff53cd7bfa29f89616856261970954-1024-1024.webp",
+      "precio": 129.941,
+      "stock": 10
+  },
+  {
+      "id": 17,
+      "titulo": "Chaleco Aqualung Wave",
+      "descripcion": "La mejor opción para quienes buscan relación precio calidad, Cómodo, liviano y de materiales súper resistentes, Ideal para cursos de formación y escuelas.      Cuenta con una faja ajustable más ancha, hebillas de hombros ajustables, válvula de purga baja de serie equipada con un nuevo accesorio que la hace más fácil de encontrar. Correas más anchas y cómodas, espaldera acolchada (Back Pack) y cuenta con la posibilidad de añadir bolsillos para lastre extraíbles.",
+      "categoria": "buceo-chalecos",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/111-a26caf003c9176b4c716680946725293-1024-1024.webp",
+      "precio": 333.325,
+      "stock": 10
+  },
+  {
+      "id": 18,
+      "titulo": "Chaleco Aqualung Lotus I3",
+      "descripcion": "El Lotus es un chaleco de flotabilidad de inflado posterior diseñado específicamente para la mujer que incorpora el sistema de arnés integrado Wrapture? de Aqua Lung, En el Lotus, el sistema de arnés Wrapture? rodea el contorno del cuerpo de la mujer con correas especialmente curvadas en el hombro y lóbulos laterales que permiten un mejor ajuste, Los lastres integrados quedan fijados de forma segura en su ubicación gracias al sistema de lastrado mecánico SureLock.",
+      "categoria": "buceo-chalecos",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/lotus21-ce94c02ed78342595f16209246223781-1024-1024.webp",
+      "precio": 611.103,
+      "stock": 10
+  },
+  {
+      "id": 19,
+      "titulo": "Chaleco Aqualung Pro HD",
+      "descripcion": "El Aqualung Pro HD es un chaleco de buceo hidrostático de primer nivel, con lastre integrado, Resultará atractivo para el buceador aficionado. Se empleará en configuraciones operativas en las que se busque la integración del lastre. Posee 2 bolsillos en cada lóbulo, Estos, tienen dos correderas y tiradores para acceder fácilmente al bolsillo, Los cierres son de espiral nro, 10 para facilitar su uso, Existe una hebilla dentro del bolsillo izquierdo, ideal para no perder objetos importantes,",
+      "categoria": "buceo-chalecos",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/121-3063b5d20b6543dd8c16680951411866-1024-1024.webp",
+      "precio": 502.215,
+      "stock": 10
+  },
+  {
+      "id": 20,
+      "titulo": "Chaleco Scubapro Go",
+      "descripcion": "Los buceadores que viajan y prefieren el ajuste y la sensación de un BCD ajustable al frente definitivamente les gustará el GO rediseñado, un viajero mundial comprobado, Es ligero y compacto, pero al mismo tiempo ofrece todas las características de rendimiento y comodidad que usted esperaría de un BCD de uso general con todas las funciones, Súper cómoda, la mochila Airnet con drenaje de agua proporciona la cantidad correcta de cojín cuando se usa un traje de neopreno fino o no lleva ningún traje de neopreno, El GO prácticamente no tiene flotabilidad inherente, por lo que las necesidades de lastre son mínimas, La celda de aire proporciona una gran cantidad de levantamiento y las bandas de doble tanque mantienen el tanque firmemente en su lugar para una máxima estabilidad, El BCD completo se puede plegar y almacenar fácilmente en su propia bolsa de viaje, lo que le permite ir a bucear por todo el mundo.",
+      "categoria": "buceo-chalecos",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/go-scuba-1x11-750eb63ce465bd367c16209244722963-1024-1024.webp",
+      "precio": 597.560,
+      "stock": 10
+  },
+  {
+      "id": 21,
+      "titulo": "Bread - Hot Dog Buns",
+      "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+      "categoria": "apnea-trajes-neoprene",
+      "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+      "precio": 100.000,
+      "stock": 10
+  },
+  {
+      "id": 22,
+      "titulo": "Cressi Boya Torpedo",
+      "descripcion": "Esta boya torpedo, con su forma alargada, ha sido diseñado específicamente para ofrecer muy poca resistencia al viento.      Fabricado en resistente PVC termosellado, tiene dos cámaras de aire internas separadas, una en la parte superior y otra en la parte inferior.      Este último también se puede utilizar para introducir agua para proporcionar lastre.      En un extremo de la boya hay un sistema de anclaje doble para el asta de la bandera, mientras que en el otro extremo, en la mitad inferior, se encuentra el punto de anclaje para la línea.      Otros 6 fuertes bucles, fijados en los dos extremos de la mitad inferior, están diseñados para llevar accesorios o bastones de repuesto.",
+      "categoria": "apnea-boyas",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/diseno-sin-titulo-211-8578fa8ea3157a9f0c16878139127551-1024-1024.webp",
+      "precio": 36.909,
+      "stock": 10
+  }
+  ,
+  
+  {
+    "id": 23,
+    "titulo": "Aletas Cressi Gara Modular Impulse",
+    "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+    "categoria": "apnea-aletas",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/diseno-sin-titulo-11-962e69d8dd3753ed0b16397757454868-1024-1024.webp",
+    "precio": 198.000,
+    "stock": 10
+}
+,
+
+{
+    "id": 24,
+    "titulo": "Boya Pino Pesca Submarina",
+    "descripcion": "Boya de buceo de nylon reforzado, contiene:    5 anillos en D de acero inoxidable, 3 manijas de agarre -    Correas de velcro flexibles en la parte superior e inferior para llevar los fusiles -    Bandera de buceo -    Una correa de velcro extraíble en el medio para mantener el peso del plomo en la parte inferior.    Con cuerda de 20 mts con ambos clips laterales.",
+    "categoria": "apnea-boyas",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/tb-61-99facd93a9aec3fae216753784325482-1024-1024.webp",
+    "precio": 59.983,
+    "stock": 10
+}
+,
+  {
+      "id": 25,
+      "titulo": "Aletas Cressi Modular Sprint",
+      "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+      "categoria": "apnea-aletas",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/141-05aabdef38378967d516397823078901-1024-1024.webp",
+      "precio": 194.387,
+      "stock": 10
+  },
+  
+  {
+    "id": 26,
+    "titulo": "Aletas Cressi Gara Modular IMpulse Turbo",
+    "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+    "categoria": "apnea-aletas",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/271-8d100c4f1fc705f11c16876203205691-1024-1024.webp",
+    "precio": 33.000,
+    "stock": 10
+},
+  {
+      "id": 27,
+      "titulo": "Aletas Cressi Gara 3000 LD",
+      "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+      "categoria": "apnea-aletas",
+      "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/gara-1x1-21-1a855e0ccccb7dd9bc16210074195650-1024-1024.webp",
+      "precio": 151.422,
+      "stock": 10
+  },
+  
+  {
+    "id": 28,
+    "titulo": "Snorkel Aqualung Gobi Dry",
+    "descripcion": "In blandit ultrices enim.",
+    "categoria": "buceo-snorkels",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/diseno-sin-titulo1-3aa59f52f8dfd31b0a16868389003418-1024-1024.webp",
+    "precio": 22.484,
+    "stock": 10
+},
+{
+    "id": 29,
+    "titulo": "Snorkel Aqualung Aquilon PV",
+    "descripcion": "In blandit ultrices enim.",
+    "categoria": "buceo-snorkels",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/aquilon_black-orange-web1-dff6c5455420f2ece616209948582988-1024-1024.webp",
+    "precio": 17.000,
+    "stock": 10
+},
+{
+    "id": 30,
+    "titulo": "Snorkel Scubapro Trinidad",
+    "descripcion": "In blandit ultrices enim.",
+    "categoria": "buceo-snorkels",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/diseno-sin-titulo-11-f9c82bb868c7fe2bab16643156984548-1024-1024.webp",
+    "precio": 231.138,
+    "stock": 10
+},
+{
+    "id": 31,
+    "titulo": "Mascara Cressi Zeus",
+    "descripcion": "ZEUS disfruta de un conglomerado de ventajas técnicas que Cressi ha ido incorporando las últimas temporadas en diversos modelos, Aúna una gran tecnicidad con un diseño cautivador y unas proporciones medias, tanto de montura como de facial. Su exclusiva estructura integra la montura en el propio facial en lugar de superponerlo. Este exclusivo sistema de construcción, que permite el montaje sin necesidad de encolado, reduce al mínimo absoluto los espesores mejorando por lo tanto el volumen interno, la visibilidad y la adaptación de la máscara. Reduce su peso a un total de 125 g y la dota de la rigidez estructural de una máscara tradicional con las ventajas de una máscara sin montura. Además, mejora la estanqueidad de la máscara, anula cualquier posibilidad de contacto incómodo de la montura con la frente y elimina toda visión de la zona central del marco desde el interior.",
+    "categoria": "buceo-mascaras",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/zeus-1x11-db56e1a66bcdb72d0716209272830111-1024-1024.webp",
+    "precio": 112.000,
+    "stock": 10
+},
+
+{
+    "id": 32,
+    "titulo": "Mascara Aqualung Sphera X",
+    "descripcion": "La nueva SPHERA X es la nueva generación SPHERA, la máscara de apnea número uno de Aqua Lung, La tecnología exclusiva libre de distorsión usada en las lentes proporciona un amplio rango de visión de 180 grados, y permite al usuario experimentar una visión panorámica que es pura libertad para los ojos. Tras muchos años del legado SPHERA, el equipo de diseño Aqua Lung se unió a buzos de apnea profesionales, estudiaron las cualidades de nuevos materiales e investigaron la optimización de las máscaras de pequeño tamaño.",
+    "categoria": "buceo-mascaras",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/sphera-31-d113d6c18bdc15f38816210150194614-1024-1024.webp",
+    "precio": 81.900,
+    "stock": 10
+},
+
+{
+    "id": 33,
+    "titulo": "Chaleco Scubapro LadyHawk",
+    "descripcion": "Nada se compara con la adrenalina del buceo a la deriva en un espectacular terreno submarino mientras se lleva un BCD libre de obstáculos, Tal sensación de libertad es lo que puede esperar con el LADYHAWK, Diseñados y dimensionados específicamente para buceadores femeninos, acolchados estratégicamente colocados, un yugo de cuello estrecho, un fajín ajustable y hebillas de hombro giratorias, todo funciona en conjunto para garantizar un ajuste cómodo y cómodo, Con su paquete rígido contorneado y su hebilla de tanque Super Cinch de una sola banda, el LADYHAWK también ofrece una marcha estable en profundidad, Combine eso con una celda de aire colocada detrás de usted, limpiando las áreas del pecho y los hombros y reduciendo el hidrodrag, y estará listo para una experiencia submarina de vuelo libre que es un placer contemplar.",
+    "categoria": "buceo-chalecos",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/lady-2-1x11-5245b0d5878bda7c7616209245479524-1024-1024.webp",
+    "precio": 770.010,
+    "stock": 10
+},
+
+{
+    "id": 34,
+    "titulo": "Chaleco Scubapro Seahawk 2",
+    "descripcion": "El Seahawk 2 ha sido renovado y mejorado. Este popular y versátil chaleco hidrostático incluye un nuevo diseño en los hombros con hebillas giratorias y un nuevo backpack acolchado y reforzado. Gracias a ello, el nuevo Seahawk 2 es mucho más ligero que su antecesor y, además, resulta muy fácil de plegar y guardar. Su cincha de acero inoxidable Super Cinch para la botella está situada un poco más abajo que antes, y también hemos incorporado una correa de Velcro adicional que permite asegurar la botella durante la inmersión. Otras novedades destacables son la correa ventral de 50 mm con hebilla ligera, los bolsillos de almacenamiento rediseñados y la nueva gama de accesorios para latiguillos y válvulas. Gracias a su contorno hidrodinámico y a su excelente flotabilidad cuando se necesita, el nuevo Seahawk 2 es la opción perfecta para buceadores que buscan libertad de movimiento, comodidad y estabilidad mientras exploran las profundidades.",
+    "categoria": "buceo-chalecos",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/111-381a43a639291c991316483027220229-1024-1024.webp",
+    "precio": 669.708,
+    "stock": 10
+},
+
+{
+    "id": 35,
+    "titulo": "Aletas Cressi Pluma",
+    "descripcion": "Pluma es la última creación Cressi en aletas de gama alta para iniciación y snorkeling, Fabricada con los mismos materiales que en la gama más técnica: polipropileno para la pala y caucho termoplástico muy flexible para el calzante y los nervios longitudinales",
+    "categoria": "buceo-aletas",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/pluma-azul-1x11-d37057f9c34441f3ae16212602452211-1024-1024.webp",
+    "precio": 65.000,
+    "stock": 10
+},
+
+{
+    "id": 36,
+    "titulo": "Aletas Aqualung Express ADJ",
+    "descripcion": "La de esta aleta está fabricada en plástico ultra elástico, lo que lo convierte en el corazón de la aleta durante cada movimiento. Los nervios laterales de la aleta canalizan el agua, eliminando cualquier efecto posible de deslizamiento,     La superficie de varios grosores del calzante transmite perfectamente la energía de la pierna a la pala, Es decir, el correcto alojamiento del pie, aseguran la máxima transferencia de energía. ",
+    "categoria": "buceo-aletas",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/34524_express1-37fe31b95c481517e916866977634162-1024-1024.webp",
+    "precio": 99.000,
+    "stock": 10
+},
+
+{
+    "id": 37,
+    "titulo": "Aletas Cressi Pro Light",
+    "descripcion": "Pro Light es una excelente combinación entre: Potencia, gracias a su composición longitudinal bastante rígida, Velocidad, gracias a las prestaciones del polipropileno, Aprovechamiento del esfuerzo, gracias a sus materiales y al perfil de espesor decreciente, Manejabilidad, dada su longitud moderada, La ligereza y el equilibrio de los materiales, unidos a un diseño muy moderno, hacen de Rondine Pro Light una aleta generosa, que proporciona prestaciones exuberantes con un desgaste físico limitado, Muy versátil, es idónea desde para el buceador novel hasta el profesional, instructores y buceadores técnicos.",
+    "categoria": "buceo-aletas",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/pro-light-black-1x11-ddd03a5d87631c72ab16209237773619-1024-1024.webp",
+    "precio": 89.900,
+    "stock": 10
+},
+
+{
+    "id": 38,
+    "titulo": "Aletas Cressi Gara IMpulse Modular Sprint Turbo",
+    "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+    "categoria": "apnea-aletas",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/141-75381126e40076960816876205765855-1024-1024.webp",
+    "precio": 215.984,
+    "stock": 10
+},
+
+{
+    "id": 39,
+    "titulo": "Aletas Scubapro Jet Sport",
+    "descripcion": "Jet Sport es una aleta de talón abierto con hebillas ajustables, de palas potentes y alto rendimiento, esta aleta es perfecta para todo tipo de buceadores,",
+    "categoria": "buceo-aletas",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/jet-amarilla-1x11-132cbe678ad8a0b60e16209237973299-1024-1024.webp",
+    "precio": 74.035,
+    "stock": 10
+},
+{
+    "id": 40,
+    "titulo": "Traje Neoprene Pino Viper 7",
+    "descripcion": "Compuesta de dos piezas, chaqueta y pantalón, de 7mm de espesura, Revestimiento interno en Opencell (Engomado). Revestimiento externo en material elástico hiperstretch con diseño camuflado verde, marrón o azul, Terminaciones internas de glide en puños, tobillos y en el contorno de la cara, Este material, crea una estanqueidad extra en las zonas donde el agua más se filtra dentro del traje. Refuerzo en el pecho de termoplástico resistente para armar fusil, Amplio refuerzo de powertex en rodillas y codos, para evitar el desgaste en contacto con las rocas, Además, posee este mismo tipo de material en la parte inferior trasera de la chaqueta, justo donde se hace contacto al sentarse mientras uno se equipa sea en la lancha o en la costa.Casco incorporado, La chaqueta posee botones especiales desarrollados por Pino, de encaje fácil y sacado rápido, Válvula de salida de aire en la parte superior del casco.",
+    "categoria": "apnea-neoprene",
+    "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/001/354/373/products/viper-evolution-conjunto-colores-pino1-f3e4e7dda3dd6d4e7b16382786144800-1024-1024.webp",
+    "precio": 367.511,
+    "stock": 10
+}   
+
+]

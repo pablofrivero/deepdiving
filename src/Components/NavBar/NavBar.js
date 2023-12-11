@@ -1,5 +1,6 @@
 import CartWidget from "../CartWidget/CartWidget";
 import logo from '../../images/logo_deepdiving.png'
+import { Link } from "react-router-dom";
 
 function generateRandomCantProduct() {
   return Math.floor(Math.random() * 10);
@@ -8,22 +9,22 @@ function generateRandomCantProduct() {
 
 function NavBar() {
   return (
-    <div classNameName="NavBar">
+    <div className="NavBar">
       <nav
         className="navbar is-success"
         role="navigation"
         aria-label="main navigation"
       >
         <div className="navbar-brand">
-          <a className="navbar-item" href="">
+        <Link className="navbar-item hoverable" to="/">
             <img
               src={logo}
               width="112"
               height="28"
             />
-          </a>
+          </Link>
 
-          <a
+          <Link
             role="button"
             className="navbar-burger"
             aria-label="menu"
@@ -33,42 +34,52 @@ function NavBar() {
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
-          </a>
+          </Link>
         </div>
 
         <div id="navbarBasicExample" className="navbar-menu">
-          <div className="navbar-start">
-            <a className="navbar-item">Inicio</a>
-
-            <a className="navbar-item">Lanzamientos</a>
+        <div className="navbar-start is-spaced is-marginless">
+            <Link className="navbar-item" to="/">Inicio</Link>
 
             <div className="navbar-item has-dropdown is-hoverable">
-              <a className="navbar-link">Buceo Deportivo</a>
+              <Link className="navbar-link">Buceo Deportivo</Link>
 
               <div className="navbar-dropdown">
                 <ul>            
-                    <li><a className="navbar-item">Aletas</a></li>
-                    <li><a className="navbar-item">Chalecos Compensadores</a></li>
-                    <li><a className="navbar-item">Computadoreas</a></li>
-                    <li><a className="navbar-item">Máscaras y Snokerls</a></li>
-                    <li><a className="navbar-item">Reguladores</a></li>
-                    <li><a className="navbar-item">Trajes de Neoprene</a></li>
-                    <hr className="navbar-divider" />
-                    <li><a className="navbar-item">Todos</a></li>
+                    <li><Link className="navbar-item" to="/category/buceo-aletas">Aletas</Link></li>
+                    <li><Link className="navbar-item" to="/category/buceo-chalecos">Chalecos Compensadores</Link></li>
+                    <li><Link className="navbar-item" to="/category/buceo-computadoras">Computadoras</Link></li>
+                    <li><Link className="navbar-item" to="/category/buceo-mascaras">Máscaras</Link></li>
+                    <li><Link className="navbar-item" to="/category/buceo-snorkels">Snorkels</Link></li>
+                    <li><Link className="navbar-item" to="/category/buceo-reguladores">Reguladores</Link></li>
+                    <li><Link className="navbar-item" to="/category/buceo-trajes-neoprene">Trajes de Neoprene</Link></li>
+                  
                 </ul>
               </div>
             </div>
-            <a className="navbar-item">Contacto</a>  
+            <div className="navbar-item has-dropdown is-hoverable">
+              <Link className="navbar-link">Apnea</Link>
+
+              <div className="navbar-dropdown">
+                <ul>            
+                    <li><Link className="navbar-item" to="/category/apnea-aletas">Aletas</Link></li>
+                    <li><Link className="navbar-item" to="/category/apnea-boyas">Boyas</Link></li>
+                    <li><Link className="navbar-item" to="/category/apnea-neoprene">Trajes de Neoprene</Link></li>
+      a
+                </ul>
+              </div>
+            </div>
+            <Link className="navbar-item" to="/contacto">Contacto</Link>  
           </div>
           
 
           <div className="navbar-end">
             <div className="navbar-item">
               <div className="buttons">
-                <a className="button is-white">
+                <Link className="button is-white">
                   <CartWidget cantProductCart={generateRandomCantProduct()} />
-                </a>
-                <a className="button is-info ">Pablo Rivero</a>
+                </Link>
+                <Link className="button is-info ">Pablo Rivero</Link>
               </div>
             </div>
           </div>
