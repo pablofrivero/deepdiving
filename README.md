@@ -16,21 +16,23 @@
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1. Clona este repositorio:
-
-_git clone https://github.com/tuusuario/deepdiving-ecommerce.git
-
+```bash
+  git clone https://github.com/pablofrivero/deepdiving.git
+```
 2. Navega al directorio del proyecto:
-
-_cd deepdiving-ecommerce
-
+```bash
+ cd deepdiving-ecommerce
+```
 3. Instala las dependencias:
+```bash
+ npm install
+```
+4. Solicitame el .env y dejalo en la raiz del proyecto
 
-_npm install
-
-4. Inicia la aplicación:
-
-_npm start
-
+5. Inicia la aplicación:
+```bash
+ npm start
+```
 La aplicación estará disponible en http://localhost:3000.
 
 
