@@ -10,7 +10,7 @@
 
 - **Carrito de Compras:** Agrega tus productos favoritos al carrito, revisa tu selección y realiza fácilmente el proceso de pago.
 
-[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)]([https://www.youtube.com/watch?v=configuroweb](https://youtu.be/pWHHflOj4IQ))
+[![Alt text](https://img.youtube.com/vi/pWHHflOj4IQ/0.jpg)](https://www.youtube.com/watch?v=pWHHflOj4IQ)
 
 ## Instalación
 
