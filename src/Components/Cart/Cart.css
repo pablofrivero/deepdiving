@@ -1,0 +1,57 @@
+/* Cart.css */
+
+.cart {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.cart-item img {
+  width: 150px; /* Set the desired width for your images */
+  margin-right: 20px;
+}
+
+.cart-item-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-item-info h2 {
+  margin-bottom: 10px;
+}
+
+.cart-item-info p {
+  margin: 5px 0;
+}
+
+.cart-item-info .subtotal {
+  font-weight: bold;
+}
+
+.cart-item-info .action {
+  margin-top: 10px;
+  /* Add any additional styling for actions as needed */
+}
+
+.cart-item-trash-icon {
+  font-size: 30px;
+  cursor: pointer;
+  color: red; /* Corrected: color should not be wrapped in quotes */
+}
+
+
+.left {
+  /* Style for the left element */
+  flex-grow: 1; /* Take available space */
+}
+
+.right {
+  /* Style for the right element */
+  text-align: right; /* Align text to the right */
+}

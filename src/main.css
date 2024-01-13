@@ -5,11 +5,17 @@
   font-family: sans-serif;
 }
 
-:root {
-  --clr-main: #c56cee;
-  --clr-main-light: #efdaf9;
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #1b2029; /* Color de fondo del footer */
+  color: #fff; /* Color del texto del footer */
+  padding: 10px; /* Espaciado interno del footer */
+  text-align: center; /* Alineación del texto al centro */
+  z-index: 1000; /* Asegura que el footer esté por encima de otros elementos */
 }
-
 .container {
   max-width: 1140px;
   padding-inline: 1.5rem;
@@ -101,11 +107,6 @@
   margin-top: 1rem;
 }
 
-.precio {
-  font-size: 2rem;
-  margin-top: 2rem;
-  font-weight: 600;
-}
 
 .item-count {
   display: flex;
@@ -136,14 +137,6 @@
   background-color: white;
   color: black;
 }
-
-.agregar-al-carrito, .enviar {
-  width: auto;
-  height: auto;
-  margin-top: 1rem;
-  padding: 1rem;
-}
-
 
 
 .producto-detalle img {

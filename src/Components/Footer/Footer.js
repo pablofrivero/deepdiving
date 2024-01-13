@@ -1,13 +1,12 @@
 const Footer = () => {
   return (
-    <footer className="footer is-small">
-      <div className="content has-text-centered">
-        <p>
-        <strong>Copyright Deep Diving</strong> - 2023. Todos los derechos reservados.
-        </p>
-      </div>
+    <footer>
+        <div className="max-w mx-auto text-white py-0">
+            <p className="order-2 md:order-1 mt-4 md:mt-0">&copy; DeepDiving, 2023.</p>
+          </div>
+    
     </footer>
   );
-}
+};
 
 export default Footer;

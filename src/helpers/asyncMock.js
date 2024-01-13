@@ -4,7 +4,7 @@ export const getItems = () => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       resolve(data);
-    }, 2000);
+    }, 20);
   });
 };
 
@@ -18,7 +18,7 @@ export const getItemById = (itemId) => {
       } else {
         reject("No existe el producto!");
       }
-    }, 2000);
+    }, 20);
   });
 };
 
@@ -34,6 +34,6 @@ export const getItemByCategory = (categoryId) => {
       } else {
         reject("No existe la categoría!");
       }
-    }, 2000);
+    }, 20);
   });
 };
