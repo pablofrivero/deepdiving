@@ -10,7 +10,6 @@
 
 - **Carrito de Compras:** Agrega tus productos favoritos al carrito, revisa tu selección y realiza fácilmente el proceso de pago.
 
-- **Autenticación de Usuarios:** Crea una cuenta para un acceso personalizado, seguimiento de pedidos y recomendaciones personalizadas.
 
 ## Instalación
 
@@ -18,38 +17,37 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1. Clona este repositorio:
 
-   ```bash
-   git clone https://github.com/tuusuario/deepdiving-ecommerce.git
+_git clone https://github.com/tuusuario/deepdiving-ecommerce.git
 
 2. Navega al directorio del proyecto:
-  ```bash
-  cd deepdiving-ecommerce
+
+_cd deepdiving-ecommerce
 
 3. Instala las dependencias:
-  ```bash
-  npm install
+
+_npm install
 
 4. Inicia la aplicación:
-  ```bash
-  npm start
+
+_npm start
 
 La aplicación estará disponible en http://localhost:3000.
 
 
 ## Tecnologías Utilizadas
 
-- **React:** Biblioteca de JavaScript para construir interfaces de usuario interactivas.
+*  **React:** Biblioteca de JavaScript para construir interfaces de usuario interactivas.
 
-- **Tailwind CSS:** Un marco de diseño de utilidades de bajo nivel para crear interfaces de usuario rápidas y modernas.
+*  **Tailwind CSS:** Un marco de diseño de utilidades de bajo nivel para crear interfaces de usuario rápidas y modernas.
 
-- **Firebase:** Plataforma de desarrollo de aplicaciones en la nube para la gestión de usuarios y la base de datos en tiempo real.
+*  **Firebase:** Plataforma de desarrollo de aplicaciones en la nube para la gestión de usuarios y la base de datos en tiempo real.
 
 ## Contacto
 
 ¿Tienes preguntas o sugerencias? Ponte en contacto con nosotros:
 
-- **Correo Electrónico:** info@deepdiving.com
-- **[Sitio Web](https://www.deepdiving.com)**
-- **Twitter:** [@DeepDiving](https://twitter.com/DeepDiving)
+* **Correo Electrónico:** info@deepdiving.com
+* **[Sitio Web](https://www.deepdiving.com)**
+* **Twitter:** [@DeepDiving](https://twitter.com/DeepDiving)
 
 ¡Gracias por elegir DeepDiving! Sumérgete en el mundo del buceo con nosotros. 🌊🤿
